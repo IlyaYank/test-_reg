@@ -1,5 +1,5 @@
 $(function(){
-    const strL = '../img/';
+    const strL = './img/';
     const strR = '.jpeg';
     const imgs = [
       {
